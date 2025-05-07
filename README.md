@@ -9,3 +9,5 @@ This project analyzes 128,837 tweets collected . The dataset includes tweets wit
 Insights:
 
 Sentiment Distribution: Netural tweets dominate the conversation (47.1%), while Positive tweets make up 40.6%. Negative sentiment is minimal ( 12.4%).
+
+https://github.com/Mo-Desouky91/Brainwave_Matrix_Intern-Task02/issues/1
