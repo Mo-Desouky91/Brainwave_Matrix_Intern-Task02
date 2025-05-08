@@ -12,7 +12,8 @@ Sentiment Distribution: Netural tweets dominate the conversation (47.1%), while 
 
  ![image_url](https://github.com/Mo-Desouky91/Brainwave_Matrix_Intern-Task02/blob/649604e850e19679d53860abee83eef9a222954a/3.png)
 
-**The Top Keywords that were used
+<h2><strong>The Top Keywords that were used:</strong></h2>
+
 ![image_url](https://github.com/Mo-Desouky91/Brainwave_Matrix_Intern-Task02/blob/8e401cbecd33a9ce4e7ebb0d20f14cd228e0fb50/8.png).
 
 <h2><strong>The Average likes per every sentiment:</strong></h2>
