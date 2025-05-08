@@ -10,5 +10,5 @@ Insights:
 
 Sentiment Distribution: Netural tweets dominate the conversation (47.1%), while Positive tweets make up 40.6%. Negative sentiment is minimal ( 12.4%).
 
-![image alt]([images/bitcoin_chart.png](https://github.com/Mo-Desouky91/Brainwave_Matrix_Intern-Task02/blob/649604e850e19679d53860abee83eef9a222954a/3.png))
+![image alt]([[images/bitcoin_chart.png](https://github.com/Mo-Desouky91/Brainwave_Matrix_Intern-Task02/blob/649604e850e19679d53860abee83eef9a222954a/3.png)](https://github.com/Mo-Desouky91/Brainwave_Matrix_Intern-Task02/blob/main/3.png?raw=true))
 
